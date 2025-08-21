@@ -1,0 +1,44 @@
+body{
+    background-image: url('../images/News.jpg');
+    background-repeat:no-repeat;
+    background-size: 140px;
+    background-position: up;
+    background-position-x: left;
+    background-color:aliceblue;
+}
+@font-face{
+    font-family: "Ubuntu";
+    src: url(../font/Ubuntu-Regular.ttf);
+}
+@font-face{
+    font-family: "Hanuman";
+    src: url(../font/Hanuman-Bold.ttf);
+}
+
+h1{
+    font-family: "Ubuntu","hanuman";
+    font-size: 30px;
+    margin-right: 450px;
+}
+h2{
+    font-size: 35px;
+    font-family: "Hanuman";
+}
+p1{
+    font-size: 30px;
+    font-family: "Ubuntu";
+}
+p{
+    font-size: 20px;
+}
+h3{
+    font-family: "Ubuntu";
+    font-size: 25px;
+}
+p3{
+    font-family: "Ubuntu";
+}
+h4{
+    font-size: 25px;
+    font-family: "Ubuntu";
+}
